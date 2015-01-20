@@ -1,3 +1,11 @@
 Start: Tue, 20 Jan 2015 09:30:00 -0800
-End: Tue, 20 Jan 2015 22:42:26 -0800
-Tasks: 
+End: Tue, 20 Jan 2015 10:57:00 -0800
+Tasks: I cloned the assignment repostory, created my own repository, added the instructors, made my initial commit, copied my work from last term's similar project for reference, completed the uselessFunction and the doubleArray function. I began work on the parseGit function and have started getting errors. I don't remember how to use gjslint from last term so I am stopping to watch the debugging video
+
+Start: Tue, 20 Jan 2015 11:53:00 -0800
+End: Tue, 20 Jan 2015 13:19:00 -0800
+Tasks: I completed the parseGit function, the returnObjectLiteral function, and everything in variables.js
+
+Start: Tue, 20 Jan 2015 14:27:00 -0800
+End: Tue, 20 Jan 2015 15:39:00 -0800
+Tasks: I completed all remaining tasks on the project, that being all the ones involving MessageLog
