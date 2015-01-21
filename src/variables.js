@@ -61,12 +61,3 @@ function isNull(c) {
   //end your code
 }
 
-//This function exists to compensate for an error in the runner
-function isUndefined(c) {
-  ifNull = false;
-
-  if (c === null)
-    ifNull = true;
-
-  return ifNull;
-}
